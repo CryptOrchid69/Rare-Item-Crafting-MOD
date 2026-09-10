@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="GcModMetadata">
+  <Property name="ModName" value="RARE ITEM SPAWNER" />
+  <Property name="ModVersion" value="1.0.0" />
+  <Property name="Author" value="CryptOrchid69" />
+  <Property name="Description" value="Craft rare items instantly from nanotubes - Access 26 exclusive rare items through the crafting menu" />
+  <Property name="Category" value="Crafting" />
+  <Property name="MinBaseVersion" value="4.0" />
+  <Property name="UnsafeForMultiplayer" value="false" />
+  <Property name="ModPriority" value="Early" />
+</Data>

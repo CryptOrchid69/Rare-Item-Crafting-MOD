@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NO MAN'S SKY RARE ITEM CRAFTING RECIPES -->
+<!-- CRAFT RARE ITEMS FROM NANOTUBES -->
+<Data template="GcCraftingRecipes">
+  
+  <Recipe>
+    <Id>SPAWN_ATLAS_STONE</Id>
+    <Name>Atlas Stone</Name>
+    <Description>Rare celestial artifact</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>ATLAS_STONE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_OMEGON</Id>
+    <Name>Omegon</Name>
+    <Description>Original exotic element</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>OMEGON</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_RADNOX</Id>
+    <Name>Radnox</Name>
+    <Description>Original exotic element</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>RADNOX</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_MURRINE</Id>
+    <Name>Murrine</Name>
+    <Description>Original exotic element</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>MURRINE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_CALIUM</Id>
+    <Name>Calium</Name>
+    <Description>Original exotic element</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>CALIUM</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_TETRACOBALT</Id>
+    <Name>TetraCobalt</Name>
+    <Description>Rare deprecated alloy</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>TETRACOBALT</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_CARBON_CRYSTAL</Id>
+    <Name>Carbon Crystal</Name>
+    <Description>Rare deprecated alloy</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>CARBON_CRYSTAL</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_RARE_METAL_MAGMA</Id>
+    <Name>Rare Metal Magma</Name>
+    <Description>Rare deprecated alloy</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>RARE_METAL_MAGMA</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_DESTABILISED_SODIUM</Id>
+    <Name>Destabilised Sodium</Name>
+    <Description>Rare deprecated alloy</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>DESTABILISED_SODIUM</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_PHOTONIX_CORE</Id>
+    <Name>Photonix Core</Name>
+    <Description>Rare exotic component</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>PHOTONIX_CORE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_LITHIUM</Id>
+    <Name>Lithium</Name>
+    <Description>Elemental resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>LITHIUM</OutputItem>
+    <OutputQuantity>10</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_CRYSTALIZED_HELIUM</Id>
+    <Name>Crystalized Helium</Name>
+    <Description>Rare crystalline resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>CRYSTALIZED_HELIUM</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_ACTIVATED_QUARTZITE</Id>
+    <Name>Activated Quartzite</Name>
+    <Description>Rare mineral resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>ACTIVATED_QUARTZITE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_ATLANTIDEUM</Id>
+    <Name>Atlantideum</Name>
+    <Description>Rare exotic element</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>ATLANTIDEUM</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_VOID_MOTES</Id>
+    <Name>Void Motes</Name>
+    <Description>Rare void resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>VOID_MOTES</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_HEXITE</Id>
+    <Name>Hexite</Name>
+    <Description>Rare exotic mineral</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>HEXITE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_TAINTED_META</Id>
+    <Name>Tainted Meta</Name>
+    <Description>Rare corrupted resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>TAINTED_META</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_CURSED_DUST</Id>
+    <Name>Cursed Dust</Name>
+    <Description>Rare cursed resource</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>CURSED_DUST</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_STORM_CRYSTALS</Id>
+    <Name>Storm Crystals</Name>
+    <Description>Rare storm-based crystal</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>STORM_CRYSTALS</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_CRYSTAL_SULPHUR</Id>
+    <Name>Crystal Sulphur</Name>
+    <Description>Rare crystalline sulphur</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>CRYSTAL_SULPHUR</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_RADIANT_SHARDS</Id>
+    <Name>Radiant Shards</Name>
+    <Description>Rare radiant crystal shards</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>RADIANT_SHARDS</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_STASIS_DEVICE</Id>
+    <Name>Stasis Device</Name>
+    <Description>Rare alien device</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>STASIS_DEVICE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_FUSION_IGNITER</Id>
+    <Name>Fusion Igniter</Name>
+    <Description>Rare advanced component</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>FUSION_IGNITER</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_STARSHIP_AI_VALVE</Id>
+    <Name>Starship AI Valves</Name>
+    <Description>Rare starship component</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>STARSHIP_AI_VALVE</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_VOID_EGG</Id>
+    <Name>Void Egg</Name>
+    <Description>Rare mysterious egg</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>VOID_EGG</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+  <Recipe>
+    <Id>SPAWN_PSYCHIC_EGG</Id>
+    <Name>Psychic Egg &amp; Spawning Sacs</Name>
+    <Description>Rare alien breeding material</Description>
+    <CraftingTime>0.0</CraftingTime>
+    <OutputItem>PSYCHIC_EGG</OutputItem>
+    <OutputQuantity>1</OutputQuantity>
+    <MenuCategory>RareItems</MenuCategory>
+    <RequiredInput>NANOTUBES</RequiredInput>
+    <RequiredInputQuantity>1</RequiredInputQuantity>
+    <CanConsumeMaterial>false</CanConsumeMaterial>
+  </Recipe>
+  
+</Data>
